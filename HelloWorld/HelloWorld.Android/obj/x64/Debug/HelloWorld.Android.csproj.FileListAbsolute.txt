@@ -1,0 +1,14 @@
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\x64\Debug\HelloWorld.Android.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\x64\Debug\HelloWorld.Android.pdb
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\x64\Debug\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\x64\Debug\HelloWorld.Android.HelloWorld.Android-Signed.apk
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\HelloWorld.Android.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\HelloWorld.Android.pdb
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\android\bin\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\res\layout\main.xml
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\res\values\strings.xml
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\res\drawable\icon.png
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\R.cs.flag
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\uploadflags.txt
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\x64\Debug\HelloWorld.Android.dll.mdb
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\x64\Debug\HelloWorld.Android.dll.mdb

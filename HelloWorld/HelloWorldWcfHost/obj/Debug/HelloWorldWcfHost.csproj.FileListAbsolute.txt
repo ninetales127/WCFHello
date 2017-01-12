@@ -1,0 +1,6 @@
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll.config
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.pdb
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.csprojResolveAssemblyReference.cache
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.pdb

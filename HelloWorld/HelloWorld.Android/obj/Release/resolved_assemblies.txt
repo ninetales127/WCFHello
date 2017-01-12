@@ -1,0 +1,11 @@
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\HelloWorld.Android.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\Java.Interop.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\Mono.Android.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\mscorlib.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.Core.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.ServiceModel.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.Xml.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Release\android\assets\System.IdentityModel.dll
