@@ -9,6 +9,13 @@ C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.A
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ServiceModel.Web.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Xml.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCL.raw.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCLRaw.core.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Threading.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
@@ -23,3 +30,7 @@ C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.A
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.IdentityModel.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll

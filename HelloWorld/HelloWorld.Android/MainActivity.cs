@@ -19,7 +19,7 @@ namespace HelloWorld.Android
         private TextView _getHelloWorldDataTextView;
         private Button _sayHelloWorldButton;
         private TextView _sayHelloWorldTextView;
-
+        private Button _loginButton;
         private static BasicHttpBinding CreateBasicHttp()
         {
             BasicHttpBinding binding = new BasicHttpBinding
@@ -53,7 +53,11 @@ namespace HelloWorld.Android
             _sayHelloWorldButton.Click += SayHelloWorldButtonOnClick;
             _sayHelloWorldTextView = FindViewById<TextView>(Resource.Id.sayHelloWorldTextView);
 
-            
+            _loginButton = FindViewById<Button>(Resource.Id.loginButton);
+            _loginButton.Click += LoginButtonOnClick;
+
+
+
             XmlReaderSettings settings = new XmlReaderSettings();
             settings.DtdProcessing = DtdProcessing.Parse;
             settings.MaxCharactersFromEntities = 1024;
@@ -79,6 +83,11 @@ namespace HelloWorld.Android
         {
             _sayHelloWorldTextView.Text = "Waiting for WCF...";
             _client.SayHelloToAsync("Kilroy");
+        }
+
+        private void LoginButtonOnClick(object sender, EventArgs eventArgs)
+        {
+            StartActivity(typeof(LoginActivity));
         }
 
         private void ClientOnGetHelloDataCompleted(object sender, GetHelloDataCompletedEventArgs getHelloDataCompletedEventArgs)
