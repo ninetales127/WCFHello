@@ -13,6 +13,13 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/txt_reg_email"
+        android:hint="EMAIL"
+        android:gravity="center"
+        android:layout_marginTop="100dip" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:id="@+id/txt_reg_password"
         android:hint="PASSWORD"
         android:password="true"

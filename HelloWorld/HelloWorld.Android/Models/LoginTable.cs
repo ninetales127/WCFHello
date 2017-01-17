@@ -23,6 +23,10 @@ namespace HelloWorld.Android.Models
 
         public string username { get; set; }
 
+        [MaxLength(25)]
+
+        public string email { get; set; }
+
         [MaxLength(15)]
 
         public string password { get; set; }

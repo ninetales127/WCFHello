@@ -60,14 +60,14 @@ namespace HelloWorld.Android
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f05000d
+			public const int btn_reg_back = 2131034125;
+			
 			// aapt resource value: 0x7f05000c
-			public const int btn_reg_back = 2131034124;
+			public const int btn_reg_create = 2131034124;
 			
-			// aapt resource value: 0x7f05000b
-			public const int btn_reg_create = 2131034123;
-			
-			// aapt resource value: 0x7f05000f
-			public const int btn_reg_logout = 2131034127;
+			// aapt resource value: 0x7f050010
+			public const int btn_reg_logout = 2131034128;
 			
 			// aapt resource value: 0x7f050006
 			public const int btnlogin = 2131034118;
@@ -81,14 +81,14 @@ namespace HelloWorld.Android
 			// aapt resource value: 0x7f050003
 			public const int getHelloWorldDataTextView = 2131034115;
 			
-			// aapt resource value: 0x7f05000e
-			public const int lblDashboard = 2131034126;
+			// aapt resource value: 0x7f05000f
+			public const int lblDashboard = 2131034127;
 			
 			// aapt resource value: 0x7f050008
 			public const int loginButton = 2131034120;
 			
-			// aapt resource value: 0x7f05000d
-			public const int mLlayoutBottomButtons = 2131034125;
+			// aapt resource value: 0x7f05000e
+			public const int mLlayoutBottomButtons = 2131034126;
 			
 			// aapt resource value: 0x7f050000
 			public const int sayHelloWorldButton = 2131034112;
@@ -97,7 +97,10 @@ namespace HelloWorld.Android
 			public const int sayHelloWorldTextView = 2131034113;
 			
 			// aapt resource value: 0x7f05000a
-			public const int txt_reg_password = 2131034122;
+			public const int txt_reg_email = 2131034122;
+			
+			// aapt resource value: 0x7f05000b
+			public const int txt_reg_password = 2131034123;
 			
 			// aapt resource value: 0x7f050009
 			public const int txt_reg_username = 2131034121;

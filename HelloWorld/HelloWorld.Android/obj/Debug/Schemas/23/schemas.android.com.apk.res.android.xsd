@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>1/16/2017 8:25:14 AM</xs:documentation>
+    <xs:documentation>1/17/2017 2:56:08 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16764,6 +16764,7 @@
             <xs:enumeration value="@id/mLlayoutBottomButtons" />
             <xs:enumeration value="@id/sayHelloWorldButton" />
             <xs:enumeration value="@id/sayHelloWorldTextView" />
+            <xs:enumeration value="@id/txt_reg_email" />
             <xs:enumeration value="@id/txt_reg_password" />
             <xs:enumeration value="@id/txt_reg_username" />
             <xs:enumeration value="@id/txtpwd" />

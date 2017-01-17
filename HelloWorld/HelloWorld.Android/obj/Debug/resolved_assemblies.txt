@@ -4,6 +4,8 @@ C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.A
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\mscorlib.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.IO.Compression.dll
+C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ServiceModel.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ServiceModel.Web.dll
@@ -27,7 +29,6 @@ C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.A
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
-C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.IdentityModel.dll
 C:\Users\ninetales\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
